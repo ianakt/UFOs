@@ -13,7 +13,7 @@ To create a table that allows a user to filter for the city, state country and s
     4. Country
     5. Shape
     
-    ![image](https://user-images.githubusercontent.com/68198233/156945667-34e6df20-af5e-42d8-9390-b5de8e79626b.png)
+ ![image](https://user-images.githubusercontent.com/68198233/156945997-c84659ef-37a2-48f4-b027-68c7ee2d1dbd.png)
 
     
   Along with these search criteria are the comments associated with each sighting are inlcuded.
